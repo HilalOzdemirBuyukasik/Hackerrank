@@ -1,3 +1,4 @@
+#Generate all possible 3D grid coordinates for a cuboid, excluding those where the sum of the coordinates equals a given integer. Implemented using list comprehensions for efficiency and clarity.
 
 if __name__ == '__main__':
 
