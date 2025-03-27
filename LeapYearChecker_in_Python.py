@@ -14,4 +14,4 @@ def is_leap(test_year) -> bool:
         return False
 
 year_input = int(input('Enter a year: '))
-print(is_leap(year_input))  
+print(is_leap(year_input))
